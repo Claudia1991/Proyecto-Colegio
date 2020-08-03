@@ -1,2 +1,3 @@
 # Proyecto-Colegio
-Una aplicacion desktop simple de un colegio.
+**Una aplicacion desktop simple de un colegio.
+Lenguaje: Java**
